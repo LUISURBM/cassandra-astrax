@@ -20,3 +20,6 @@ dist
 .DS_Store
 
 .factorypath
+node_modules/*
+package-lock.json
+*.log
